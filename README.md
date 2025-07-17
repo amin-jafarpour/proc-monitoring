@@ -171,6 +171,37 @@ This raw tab shows details about the raw sockets.
 The following figure shows the raw table: 
 ![Example 15](./docs/images/16-example-15.png)
 
+##### ICMP
+This icmp tab shows details about the ICMP operations. 
+The following figure shows the raw ICMP table: 
+![Example 16](./docs/images/17-example16.png)
+
+##### Routing
+This routing tab shows routing information. 
+The following figure shows the routing table: 
+![Example 17](./docs/images/18-example17.png)
+
+##### Analysis
+This analysis tab shows a comprehensive set of tables explaining the networking operations of the process. One of these tables is “Packet Stats Per CPU” which shows the number of processed packets, dropped packets, timeout packets, collision packets.  
+
+The following figure shows the forwarding metrics table: 
+![Example 18](./docs/images/19-example18.png)
+
+The following table shows the truncated InMsgs metrics table: 
+![Example 19](./docs/images/20-example19.png)
+
+The following figure shows the InType3 metrics table: 
+![Example 20](./docs/images/21-example20.png)
+
+The following figure shows the truncated RTO algorithm metrics table:
+![Example 21](./docs/images/22-example21.png)
+
+The following table shows the InDatagrams metrics table:
+![Example 22](./docs/images/23-example22.png)
+
+The following table shows the “packet stats per cpu” table which contains the annotated columns such as packets processed, dropped packets, and collisions as follows: 
+![Example 23](./docs/images/24-example23.png)
+
 
 
 
